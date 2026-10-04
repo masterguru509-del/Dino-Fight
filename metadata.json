@@ -1,0 +1,6 @@
+{
+  "name": "ЧУДО ДИНОЗАВРИКИ 3D",
+  "description": "3D WebGL / Three.js игра в визуальном стиле и на технологиях Snow-Game со всеми механиками ЧУДО ДИНОЗАВРИКИ (эволюция, кузница пушек, 3D-броня, питомцы и спец-дроп).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
